@@ -1,0 +1,26 @@
+{
+  "client": {
+    "location": "socket://localhost:8080",
+    "protocol": "http"
+  },
+  "auth": {
+    "location": "socket://localhost:8081",
+    "protocol": "http"
+  },
+  "users": {
+    "location": "socket://localhost:8082",
+    "protocol": "http"
+  },
+  "shoplist": {
+    "location": "socket://localhost:8083",
+    "protocol": "http"
+  },
+  "computation": {
+    "location": "socket://localhost:8084",
+    "protocol": "http"
+  },
+  "dbhandler": {
+    "location": "socket://localhost:8085",
+    "protocol": "http"
+  }
+}

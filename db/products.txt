@@ -1,0 +1,6 @@
+P001;Netto;Mejeriprodukter;Arla Letmælk 1L;11.95
+P002;Netto;Mejeriprodukter;Arla Yoghurt 1L;15.95
+P003;Netto;Mejeriprodukter;Lurpak Smør 250g;22.95
+P004;Føtex;Mejeriprodukter;Arla Letmælk 1L;12.95
+P005;Føtex;Mejeriprodukter;Arla Yoghurt 1L;16.95
+P006;Føtex;Mejeriprodukter;Lurpak Smør 250g;23.95
