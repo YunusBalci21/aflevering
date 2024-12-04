@@ -46,7 +46,7 @@ service DBHandler {
     define initDB {
         println@console("Initializing database...")();
         
-        // Create directory if it doesn't exist
+        // Create directory
         mkdir@file("db")();
         
         // Check if products file exists
